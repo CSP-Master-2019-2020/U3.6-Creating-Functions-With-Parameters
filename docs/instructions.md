@@ -8,7 +8,7 @@ This lesson will introduce you to the JavaScript programming language and to wri
 
 You can find the activities, vocabulary, and self-check questions here:
 
-* [Creating Functions With Parameters](https://studio.code.org/s/csp3-2019/stage/8/puzzle/1/)
+* [Lesson 8: Creating Functions With Parameters](https://studio.code.org/s/csp3-2019/stage/8/puzzle/1/)
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
